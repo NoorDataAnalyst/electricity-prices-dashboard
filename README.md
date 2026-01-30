@@ -7,7 +7,7 @@ An interactive dashboard analyzing US electricity prices across states over time
 - Year range slider for dynamic filtering  
 - Clickable map to display state-specific electricity price details in a table  
 - Clean and responsive layout using Dash Bootstrap Components  
-<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/feb364cf-2f8e-46a1-b0e7-0ee34973500a" />
+
 
 ## 🛠 Tech Stack
 - Python
